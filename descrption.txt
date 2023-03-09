@@ -1,0 +1,5 @@
+this is a quizz application where the are 2 kinds of questions
+yes or no questions are available
+multiple answers to a question are available too
+
+you have 15 seconds for each question
